@@ -34,7 +34,7 @@ n.pack()
 n.focus_set()
 n.place(x=100,y=250,width=300,height=40)
 
-p = Entry(root,bd=5)
+p = Entry(root,show="*",bd=5)
 p.configure(justify='center')
 p.pack()
 p.focus_set()
@@ -76,5 +76,4 @@ mainlabel.place(x=390,y=420)
 
 
 root.mainloop()
-
 
