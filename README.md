@@ -1,6 +1,8 @@
 # PYMAIL - A Python GUI Application for Sending Emails
 
 PYMAIL is a Python-based graphical user interface (GUI) application that allows users to send emails using their Gmail accounts. The application is built using the Tkinter library for the GUI, with Python's `smtplib` module handling the email-sending process. This simple yet functional app is ideal for users looking to send quick emails from a custom interface without opening a browser or email client.
+<img width="932" alt="Screenshot 2024-09-30 at 9 05 26 PM" src="https://github.com/user-attachments/assets/d12b977d-25d4-4721-af0e-1cec9c867db9">
+
 
 ## Features
 - **GUI Interface**: A sleek, user-friendly interface for inputting sender credentials, receiver email, and the email message.
