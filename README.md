@@ -44,11 +44,12 @@ PYMAIL is a Python-based graphical user interface (GUI) application that allows 
 3. Click on the "SUBMIT" button to send the email.
 
 ## Project Structure
+```bash
 pymail/
 │
 ├── pymail.py          # Main Python file that contains the GUI and email-sending logic
 ├── by _ KRRITHEN.gif  # Image used in the GUI (optional, replace with your own)
-
+```
 
 ## Security Warning
 This project uses basic SMTP authentication with your Gmail credentials, which requires enabling less secure apps in your Google account. Be cautious while sharing your credentials or running the app in environments where security is a concern. It is recommended to use app-specific passwords or OAuth2 authentication for real-world applications.
